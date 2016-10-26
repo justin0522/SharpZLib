@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+*********************************
+* Justin
+* 2016/10/24
+* 1.0.0.0
+*********************************
+*/
+using System;
 using System.Collections.Generic;
 using System.Text;
 using System.IO;

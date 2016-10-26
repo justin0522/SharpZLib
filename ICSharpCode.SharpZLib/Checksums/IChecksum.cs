@@ -1,3 +1,10 @@
+﻿/*
+*********************************
+* Justin
+* 2016/10/24
+* 1.0.0.0
+*********************************
+*/
 // IChecksum.cs - Interface to compute a data checksum
 // Copyright (C) 2001 Mike Krueger
 //

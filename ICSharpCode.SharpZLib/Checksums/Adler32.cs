@@ -1,3 +1,10 @@
+﻿/*
+*********************************
+* Justin
+* 2016/10/24
+* 1.0.0.0
+*********************************
+*/
 // Adler32.cs - Computes Adler32 data checksum of a data stream
 // Copyright (C) 2001 Mike Krueger
 //
